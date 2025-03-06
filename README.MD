@@ -1,5 +1,5 @@
-This projects is mysql project.
-IN this we are going to see Second hand car from dealer data.
+This project is about second hand car sold in previous years thr various dealers.
+We have analysis various things from given data file.
 Here we did following analysis:- 
 
 1. Reading all data from dataset: 
